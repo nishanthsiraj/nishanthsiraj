@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nishanthsiraj
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AI Ml frameworks
-- 💞️ I’m looking to collaborate on new advanced Data Science Models
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Advanced frameworks
+- 💞️ I’m looking to collaborate on new advanced Projects
 - 📫 How to reach me nishanthcyber@gmail.com
 
 <!---
